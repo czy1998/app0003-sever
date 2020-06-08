@@ -1,0 +1,20 @@
+{
+  "name": "test-new",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "koa": "^2.12.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-logger": "^3.2.1",
+    "koa-router": "^8.0.8",
+    "koa-session": "^6.0.0",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.9.15",
+    "sha1": "^1.1.1",
+    "speakeasy": "^2.0.0",
+    "uuid": "^8.1.0",
+    "xss": "^1.0.6"
+  }
+}
